@@ -1,4 +1,4 @@
-package com.sogrp.controllers;
+package com.sogrp.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
